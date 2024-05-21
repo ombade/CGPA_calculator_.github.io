@@ -36,7 +36,7 @@ Contributions to improve the calculator's functionality or user interface are we
 
 ## Credits
 
-- Developed by [Your Name or Username](https://github.com/ombade)
+- Developed by [Om Bade](https://github.com/ombade)
 
 
 ## License
